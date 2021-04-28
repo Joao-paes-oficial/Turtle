@@ -3,7 +3,4 @@
 ## Necessário:
 - Ter o Python3 instalado.
 
-# Turtle Drawings
-
-## Required:
-- Have Python3 installed.
+- Para instalar o python: *[clique aqui.](https://www.python.org/downloads/)*
